@@ -1,0 +1,26 @@
+1 player
+
+52 card deck
+
+Win condition:
+	build all 4 suits of cards from ace to king in 4 separate files
+
+Setup:
+	Shuffle deck
+	split 28 cards into 7 piles (first pile has 1 card, 2nd has 2... etc)
+	top card of each pile is face up
+	create a draw pile with the remaining cards (24 cards)
+
+
+Play:
+	The 4 foundations (4 different suits) cannot be removed or changed once placed
+	to place a card in the foundation, it must be the same suit and the next card (Jack -> Queen, Queen -> King)
+
+	Playing on the 7 piles:
+		To place a card, the card that is being placed must be the opposite color of the card that it is being placed on and it must be one value less, i.e. (red 4 -> black 3 , black 3 -> red 2)
+
+
+	Moving cards:
+		Cards can be moved from deck to pile, deck to foundation,  pile to pile, or from pile to foundation, but NOT from pile to deck.
+
+	A player can draw one card from the draw pile at a time and if this card is placed somewhere, the previous card is at the top of the draw. 

@@ -1,0 +1,26 @@
+                        RULES:  Klondike Solitaire
+
+        Requires 1 player and a standard 52 deck of cards.
+        The objective is to organize a shuffled deck of cards into
+        4 stacks(one of each suit) in ascending order(Aces are low).
+        There are 7 cards at the bottom of the screen, called the
+        tableau, in here face up cards can be transferred in descending
+        order and in alternating color. The player must transfer the
+        top card or stack of cards to any pile in an attempt to create a
+        sequence of descending values and alternating colors. An empty
+        slot in the tableau can only be filled with a King. If the player
+        cannot move any more cards in the tableau, then a card can be
+        selected from the draw pile.
+
+        The goal is to build up the foundation stacks. The top card of
+        the table or draw pile can be transferred to the foundations.
+        When all of the cards have been transferred in ascending order
+        (Ace up to King) to the foundations the game is won! If no moves
+        can be made and the foundations are still incomplete, the game
+        is lost."
+
+        Hard Mode: When the game is in hard mode the player can only flip
+        through the draw deck once.
+
+        Easy Mode: When the game is in easy mode the player can flip through
+        the draw deck as many times as they want.
